@@ -29,7 +29,9 @@
 | [skills/transcribe.md](skills/transcribe.md), [skills/recurring-meeting.md](skills/recurring-meeting.md) | Локальная транскрипция и цикл регулярной встречи руководителей |
 | [skills/presentation-builder.md](skills/presentation-builder.md), [skills/presentation-review.md](skills/presentation-review.md), [skills/monthly-report.md](skills/monthly-report.md) | Сборка и проверка презентаций, ежемесячный отчёт руководителю |
 | [skills/my-writing-style/](skills/my-writing-style/SKILL.md) | Метод сборки собственного письменного голоса и пустой шаблон профиля |
+| [skills/direction-weekly-report.md](skills/direction-weekly-report.md) | Недельный отчёт руководителя направления: пять строк на проект, числа к цели, блокеры отдельно |
 | [skills/agent-orchestration.md](skills/agent-orchestration.md) | Координатор, исполнители, независимые проверки и передача смены |
+| [skills/refocus.md](skills/refocus.md) | Возврат картины длинной задачи: зачем, что изменилось, где мы, что нужно от владельца |
 | `skills/decision-analysis/` | Скилл «анализ решений руководителя» + шаблон для твоего свода управленческих принципов |
 | `.b24-bridge/` | Шаблон конфига сенсора Битрикс24 (реальный вебхук — локально, вне git) |
 | `EXAMPLES.md` | Примеры запросов к агенту в рабочей сессии |
